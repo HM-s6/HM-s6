@@ -5,8 +5,9 @@
 
 ## 🚀 Skills
 
-* C++ (Problem Solving & Algorithms & OOP & Data Structure)
-* Java (OOP & GUI)
+🌱 I’m a Competitive Programmer (ICPC Trainee & Mentor)
+💻 Studing C++ (OOP & Data Structures & Algorithms & CP)
+🧠 Studying Java (OOP & GUI)
 
 ---
 
@@ -19,10 +20,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
 </a>
 
-<a href="https://codeforces.com/profile/HaDeErr">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40"/>
-</a>
+---
+## 💻 Languages 
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java" />
+</p>
+
+## 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/profile/HaDeErr">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 ---
 ## 💻 Languages
 
@@ -30,5 +41,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
+
 
 ⭐ Always learning
