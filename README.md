@@ -6,7 +6,9 @@
 ## 🚀 Skills
 
 🌱 I’m a Competitive Programmer (ICPC Trainee & Mentor)
+
 💻 Studing C++ (OOP & Data Structures & Algorithms & CP)
+
 🧠 Studying Java (OOP & GUI)
 
 ---
