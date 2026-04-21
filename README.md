@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Hadeer
 
-<!--
-**HM-s6/HM-s6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++ (Problem Solving & Algorithms & OOP & Data Structure)
+* Java (OOP & GUI)
+
+---
+
+## Contact me
+<a href="https://www.linkedin.com/in/hadeer-mohamed-7b697535b/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="mailto:hadeermsa266@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a>
+
+<a href="https://codeforces.com/profile/HaDeErr">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40"/>
+</a>
+
+---
+## 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+⭐ Always learning
